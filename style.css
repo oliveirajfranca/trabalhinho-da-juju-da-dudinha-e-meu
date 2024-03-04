@@ -8,10 +8,9 @@ body{
 img{
     width: 10%;
 }
-header`{
-    display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: flex-start;} 
+header`{display: flex;
+    align-items: flex-start;
+    flex-direction: column;   
+}
 
 
