@@ -5,9 +5,8 @@ body{
     background-color: var(--cor-de-fundo);
 
 }
-img{
-    width: 50%;
-}
+
+
 header`{display: flex;
     align-items: flex-start;
     flex-direction: column;   
