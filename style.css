@@ -15,3 +15,6 @@ header`{display: flex;
 .friends{ 
     width:50%; }
 
+    .introducao{ display: flex;
+    }
+
