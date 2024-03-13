@@ -1,20 +1,23 @@
-:root{ 
---cor-de-fundo: #2f942f; 
-} 
-body{
+:root {
+    --cor-de-fundo: #2f942f;
+}
+
+body {
     background-color: var(--cor-de-fundo);
 
 }
 
 
-header`{display: flex;
+header {
+    display: flex;
     align-items: flex-start;
-    flex-direction: column;   
+    flex-direction: column;
 }
 
-.friends{ 
-    width:50%; }
+.friends {
+    width: 50%;
+}
 
-    .introducao{ display: flex;
-    }
-
+.introducao {
+    display: flex;
+}
