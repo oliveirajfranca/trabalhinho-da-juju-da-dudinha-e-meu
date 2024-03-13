@@ -12,6 +12,6 @@ header`{display: flex;
     flex-direction: column;   
 }
 
-#friends{ 
+.friends{ 
     width:50%; }
 
