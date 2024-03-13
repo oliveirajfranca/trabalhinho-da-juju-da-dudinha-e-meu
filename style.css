@@ -13,4 +13,6 @@ header`{display: flex;
     flex-direction: column;   
 }
 
+#friends{ 
+    width:50%; }
 
