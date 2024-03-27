@@ -1,10 +1,12 @@
 :root {
-    --cor-de-fundo: #2f942f;
+    --cor-de-fundo: #000;
+    --cor-da-letra: #2bd315;
 }
 
 body {
     background-color: var(--cor-de-fundo);
 
+    background-color: var(--cor-da-letra);
 }
 
 
