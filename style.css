@@ -17,7 +17,9 @@ header {
     flex-direction: column;
 
 }
-
+.barbie{
+    width: 70%;
+}
 .friends {
     width: 70%;
 }
