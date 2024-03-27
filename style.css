@@ -20,6 +20,7 @@ header {
 .barbie{
     width: 70%;
 }
+
 .friends {
     width: 70%;
 }
@@ -32,3 +33,11 @@ header {
     border-radius: 19px ;
     border: 3px solid black;
 }
+
+.desenvolvimento {
+display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px 0;
+    background-color: #16d11f
+    border-radius: 19px ;
+    border: 3px solid black;}
