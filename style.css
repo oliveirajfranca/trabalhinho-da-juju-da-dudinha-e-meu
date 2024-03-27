@@ -32,4 +32,7 @@ header {
     border: 3px solid black;
 }
 
-.tresIs { }
+.tresIs { 
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
