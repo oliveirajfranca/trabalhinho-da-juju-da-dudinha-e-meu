@@ -4,7 +4,10 @@
 
 body {
     background-color: var(--cor-de-fundo);
-
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
 }
 
 
@@ -12,6 +15,7 @@ header {
     display: flex;
     align-items: flex-start;
     flex-direction: column;
+
 }
 
 .friends {
