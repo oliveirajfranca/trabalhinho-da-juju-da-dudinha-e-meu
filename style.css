@@ -32,11 +32,11 @@ header {
     border: 3px solid black;
 }
 
-.tresIs { 
+.equipe { 
     display: grid;
     grid-template-columns: 33% 33% 33%;
 }
 
-.foto-tresIs {
+.foto-equipe {
     width: 45%;
 }
