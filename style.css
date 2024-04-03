@@ -31,6 +31,18 @@ header {
     border-radius: 19px ;
     border: 3px solid black;
 }
+.barbie { 
+    width: 70%;
+}
+
+.desenvolvimento {
+    display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px 0;
+    background-color: #16d11f;
+    border-radius: 19px ;
+    border: 3px solid black;
+}
 
 .equipe { 
     display: grid;
