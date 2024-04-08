@@ -33,7 +33,17 @@ header {
     width: 70%;
 }
 
+
+
 .desenvolvimento {
+    display: flex;
+    margin: 20px 0 0 0;
+    padding: 20px 0;
+    background-color: #3c8540;
+    border-radius: 19px ;
+    border: 3px solid black;
+}
+.conclusao {
     display: flex;
     margin: 20px 0 0 0;
     padding: 20px 0;
@@ -45,6 +55,8 @@ header {
 #equipe { 
     display: grid;
     grid-template-columns: 33% 33% 33%;
+    border-radius: 19px ;
+    border: 3px solid black;
 }
 
 
