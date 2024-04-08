@@ -44,7 +44,7 @@ header {
 
 .equipe { 
     display: grid;
-    grid-template-columns: 33% 38% 33%;
+    grid-template-columns: 33% 33% 33%;
 }
 
 
