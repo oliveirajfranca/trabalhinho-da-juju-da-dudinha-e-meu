@@ -23,7 +23,7 @@ header {
 
 .introducao {
     display: flex;
-    margin: 20px 0 0 0;
+    margin: 16px 0 0 0;
     padding: 20px 0;
     background-color: #3c8540;
     border-radius: 19px ;
@@ -37,14 +37,14 @@ header {
 
 .desenvolvimento {
     display: flex;
-    margin: 20px 0 0 0;
+    margin: 30px 0 0 0;
     padding: 20px 0;
     background-color: #3c8540;
     border-radius: 19px ;
     border: 3px solid black;
 }
 .imagem {
-    margin: 22px 0 0 0;
+    margin: 30px 0 0 0;
     padding: 22px 0;
     background-color: #3c8540;
     border-radius: 22px ;
@@ -54,10 +54,14 @@ header {
 #equipe { 
     display: grid;
     grid-template-columns: 33% 33% 33%;
-
+    text-align: center;
+    margin-top: 30px;
 }
 
 
 .foto {
     width: 45%;
 }
+
+footer{    display: flex;
+    justify-content: space-around;}
