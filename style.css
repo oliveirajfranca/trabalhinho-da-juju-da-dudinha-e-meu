@@ -19,6 +19,7 @@ header {
 
 .friends {
     width: 70%;
+    padding: 8px 20px;
 }
 
 .introducao {
@@ -31,6 +32,7 @@ header {
 }
 .barbie { 
     width: 70%;
+    padding: 8px 20px;
 }
 
 
@@ -44,8 +46,8 @@ header {
     border: 3px solid black;
 }
 .imagem {
-    margin: 30px 0 0 0;
-    padding: 22px 0;
+    margin: 20px 0 0 0;
+    padding: 14px 40px;
     background-color: #3c8540;
     border-radius: 22px ;
     border: 3px solid black;
