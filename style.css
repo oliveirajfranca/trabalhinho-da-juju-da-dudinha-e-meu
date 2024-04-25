@@ -17,7 +17,7 @@ header {
     align-items: center;
     justify-content: space-between;
     margin-top: -34px;
-    letter-color: var(--green);
+    accent-color: var(--green);
 }
 
 
