@@ -63,7 +63,7 @@ header {
 #equipe { 
     display: grid;
    text-align: center;
-    margin-top: 30px;
+    margin-top: 70px;
      grid-template-columns: 33% 33% 33%;
 }
 
@@ -73,7 +73,8 @@ header {
 }
 
 footer{    display: flex;
-    justify-content: space-around;}
+    justify-content: space-around;
+    margin-top: 36px;}
 
     a{display: flex;
         justify-content: space-around;
