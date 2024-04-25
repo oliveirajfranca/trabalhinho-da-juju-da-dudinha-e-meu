@@ -1,7 +1,6 @@
 :root {
-    --cor-de-fundo: #000000;
+    --cor-de-fundo: #227420;
     --black: black;
-    --green: #1b8120;
 }
 
 body {
@@ -17,7 +16,7 @@ header {
     align-items: center;
     justify-content: space-between;
     margin-top: -34px;
-    accent-color: var(--green);
+   
 }
 
 
