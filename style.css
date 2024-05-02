@@ -85,3 +85,12 @@ footer{    display: flex;
     a{display: flex;
         justify-content: space-around;
     }
+
+
+    header a{
+        color: black;
+    }
+
+    footer a{
+        color: aqua;
+    }
